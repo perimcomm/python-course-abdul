@@ -1,0 +1,2 @@
+teste="piscinha"
+print(teste)
